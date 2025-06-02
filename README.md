@@ -23,12 +23,4 @@ Database: MySQL
 
 Server: Apache Tomcat
 
-IDE: Eclipse or any Java-supported IDE
-Stack Overflow
-GitHub
-YouTube
-+4
-Java Guides
-+4
-Java Guides
-+4
+IDE: Eclipse 
